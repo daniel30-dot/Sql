@@ -1,0 +1,4 @@
+--FUNÇÕES MATEMÁTICAS
+
+SELECT MIN(UNITPRICE)
+FROM Sales.SalesOrderDetail

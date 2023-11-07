@@ -1,0 +1,15 @@
+/*
+OPERADOR	-	DESCRIÇÃO
+=				IGUAL
+>				MAIOR QUE
+<				MENOR QUE
+>=				MAIOR OU IGUAL QUE
+<=				MENOR QUE OU IGUAL QUE
+<>				DIFERENTE DE
+AND				OPERADOR LOGICO E
+OR				OPERADOR LOGICO OU
+*/
+
+SELECT*
+FROM Production.product
+where color <> 'red'
